@@ -2,7 +2,7 @@
 readme generator
 
 # Description
-This project helps generate a readme
+video https://github.com/ChrisH81/readme/raw/master/examplevideo.mp4
 
 # Table of Contents
 table of contents here
